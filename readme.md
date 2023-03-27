@@ -26,8 +26,6 @@ npm run build
 
 Project builded in dist/ folder
 
-# Demo
-
 # Credits
 
 [JS Mastery Pro](https://jsmastery.pro)
